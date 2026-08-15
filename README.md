@@ -1,6 +1,6 @@
 # ¡Hola, soy Alejandro! 👋
 
-🚀 **Estudiante de Ingeniería en Sistemas Computacionales** enfocado en desarrollo de software y sistemas embebidos.
+🚀 **Estudiante de Ingeniería en Sistemas Computacionales** enfocado en desarrollo de software.
 
 ---
 
